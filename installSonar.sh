@@ -8,4 +8,6 @@ unzip sonar.zip
 
 mv sonarqube-6.6 /opt/sonar
 
+mv /opt/sonarqube-6.6 /opt/sonar
+
 rm sonar.zip
